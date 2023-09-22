@@ -1,0 +1,1 @@
+Would be nice to learn git properly ain't it
